@@ -1,5 +1,14 @@
 # Part 4: LLM-Powered Feature
 
+### How to Run
+1. Install requirements using `pip install -r ../requirements.txt` (if not already installed). You will also need the `python-dotenv` and `requests` packages.
+2. Create a file named `.env` in this `part4` directory.
+3. Add your API key inside `.env` exactly like this:
+   `LLM_API_KEY=your-actual-api-key-here`
+4. Run the script: `python maincodepart4.py`
+
+---
+
 I chose **Track C: Model Prediction Explanation Pipeline**.
 
 
